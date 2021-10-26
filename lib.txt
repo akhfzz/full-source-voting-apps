@@ -1,0 +1,16 @@
+*BE
+flask-restful
+flask_jwt_extended
+uuid
+flask_mail
+flask_sqlalchemy
+sqlalchemy
+
+*FE
+Fortawesome
+redux
+react-redux
+redux-logger
+redux-devtools-extension
+aos
+react-bootstrap
